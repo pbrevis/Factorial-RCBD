@@ -6,3 +6,4 @@ Treatments are herbicide application rate [0, 4 and 8 lb/acre] and delay in cult
 
 Response variable is square root of the number of quack-grass shoots per square foot after spraying with herbicide (maleic hydrazide).
 
+![scatterplot](https://github.com/pbrevis/Factorial-RCBD/blob/main/images/2x3_RCBD.png)
