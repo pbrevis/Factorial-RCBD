@@ -1,4 +1,4 @@
-# Analysis of experimental data: Factorial RCBD
+## Analysis of experimental data: Factorial RCBD
 
 Example of a 2x3 factorial organized in a Randomized Complete Block Design (RCBD) with no significant interaction.
 
